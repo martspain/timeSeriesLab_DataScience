@@ -18,7 +18,7 @@ class driver:
     # print(self.df['AverageTemperature'].isnull().values.any())
     # print(self.df['AverageTemperature'].isnull().sum())
     # print('Mean: ')
-    # print(self.df.mean())
+    print(self.df.mean())
 
   
 dr = driver()
